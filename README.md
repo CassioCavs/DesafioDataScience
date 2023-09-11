@@ -18,6 +18,7 @@ Antes de executar esta aplicação, é necessário preparar os dados. Para isso,
 Depois de preparar os dados, você pode executar a aplicação usando o seguinte comando:
 
 python app.py
+
 python index.py
 
 Isso iniciará o servidor de desenvolvimento e a aplicação estará disponível em `http://localhost:8052/` no seu navegador.
